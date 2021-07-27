@@ -44,3 +44,6 @@
 [submodule "3rdparty/hap"]
 	path = 3rdparty/hap
 	url = https://github.com/Vidvox/hap
+[submodule "src/addons/score-vfx-template"]
+	path = src/addons/score-vfx-template
+	url = https://github.com/tbarbe004/score-vfx-template
